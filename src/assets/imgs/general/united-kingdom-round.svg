@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="a" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000111171981808509338120000006902543350436785304_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#CF142B;}
+	.st3{fill:#00247D;}
+</style>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="8" cy="8" r="8"/>
+	</defs>
+	<clipPath id="SVGID_00000126312916444230255480000009780415859168171428_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000126312916444230255480000009780415859168171428_);">
+		<g>
+			<rect id="c" x="-8" class="st1" width="32" height="16"/>
+			<polygon id="d" class="st2" points="6.4,9.6 6.4,16 9.6,16 9.6,9.6 24,9.6 24,6.4 9.6,6.4 9.6,0 6.4,0 6.4,6.4 -8,6.4 -8,9.6 			
+				"/>
+			<polygon id="e" class="st3" points="10.7,5.2 10.7,0 21,0 			"/>
+			<polygon id="f" class="st3" points="10.7,10.8 10.7,16 21,16 			"/>
+			<polygon id="g" class="st3" points="5.3,10.8 5.3,16 -5,16 			"/>
+			<polygon id="h" class="st3" points="5.3,5.2 5.3,0 -5,0 			"/>
+			<polygon id="i" class="st3" points="-8,1.5 -8,5.3 -0.3,5.3 			"/>
+			<polygon id="j" class="st3" points="24,1.5 24,5.3 16.3,5.3 			"/>
+			<polygon id="k" class="st3" points="24,14.5 24,10.7 16.3,10.7 			"/>
+			<polygon id="l" class="st3" points="-8,14.5 -8,10.7 -0.3,10.7 			"/>
+			<polyline id="m" class="st2" points="24,0 22.2,0 11.6,5.3 13.3,5.3 24,0 			"/>
+			<polyline id="n" class="st2" points="4.4,10.7 2.6,10.7 -8,16 -6.2,16 4.4,10.7 			"/>
+			<polygon id="o" class="st2" points="0.9,5.3 2.7,5.3 -8,0 -8,0.9 			"/>
+			<polygon id="p" class="st2" points="15.1,10.7 13.3,10.7 24,16 24,15.1 			"/>
+		</g>
+	</g>
+</g>
+</svg>

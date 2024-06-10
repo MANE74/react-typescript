@@ -1,0 +1,8 @@
+-
+  name: Delpoy web app
+  hosts: '{{ host }}'
+  tasks:
+    - name: Copy web app files
+      win_copy:
+        src: ./../build/
+        dest: '{{ app.path }}'
